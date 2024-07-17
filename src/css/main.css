@@ -46,6 +46,7 @@
     margin: 20px;
     text-align: center;
     text-decoration: none;
+    color: var(--text);
 }
 
 *:link {
