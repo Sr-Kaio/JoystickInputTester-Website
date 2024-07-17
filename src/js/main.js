@@ -1,7 +1,7 @@
 const connectedPage = document.getElementById("connectedPage")
 const disconnectedPage = document.getElementById("disconnectedPage")
 var buttons_ = [
-    'BBottom','BLeft','BRight','BTop',
+    'BBottom','BRight','BLeft','BTop',
     'L1','R1','L2','R2',
     'LMeta','RMeta','LeftStick','RightStick','DUp','DDown','DLeft','DRight'
 ]
